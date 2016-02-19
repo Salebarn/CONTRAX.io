@@ -1,6 +1,7 @@
-***********************************************************
-CONTRAX.io : IoT for smart contract performance verfication
-***********************************************************
+************************************************
+CONTRAX.io 
+Smart contract performance verfication using IoT
+************************************************
 
 HTTPie (pronounced *aitch-tee-tee-pie*) is a **command line HTTP client**.  
 Its goal is to make CLI interaction with web services as **human-friendly** 
@@ -10,14 +11,14 @@ colorized output. HTTPie can be used for **testing, debugging**, and
 generally **interacting** with HTTP servers.
 
 
-.. image:: https://raw.githubusercontent.com/jkbrzt/httpie/master/httpie.png
-    :alt: HTTPie compared to cURL
-    :width: 679
-    :height: 781
+.. image:: https://media.licdn.com/mpr/mpr/p/4/005/0b7/391/3b97599.jpg
+    :alt: data from smart devices will verify the performance of smart contracts
+    :width: 600
+    :height: 300
     :align: center
 
 
-HTTPie is written in Python, and under the hood it uses the excellent
+CONTRAX.io is written in Python, and under the hood it uses the excellent
 `Requests`_ and `Pygments`_ libraries.
 
 
