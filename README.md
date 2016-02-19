@@ -2,14 +2,6 @@ CONTRAX.io
 ==========
 
 
-Description – I’m surprised at how many times I land on a project page that is obviously popular (because Twitter told me so) but I have no idea why because the project owners don’t tell me plainly what the project is or why I should care.
-Installation instructions – Tell me where to get the bits and how to install them
-Where to get help – Link to the docs, mailing list, wiki, etc.
-Contribution guidelines – Tell me how I can help out including wanted features and code standards
-Contributor list – List the humans behind the project
-Credits, Inspiration, Alternatives – Tell me if this is a fork of or otherwise inspired by another project. I won’t think you’re a douche when I find out later.
-
-
   - [Description]
     - Inspiration
     - [Motivation](#motivation)
@@ -29,46 +21,35 @@ Credits, Inspiration, Alternatives – Tell me if this is a fork of or otherwise
   - [License](#license)
 
 
+# Description – UNDER CONSTRUCTION
 
-## Motivation
+
+
+# Motivation
 
 	
 
-## Installation
+# Installation
 
 
-## Contributing
+# Contributing
 
-# How to contribute
+## How to contribute
 
-Third-party patches are essential for keeping puppet great. We simply can't
-access the huge number of platforms and myriad configurations for running
-puppet. We want to keep it as easy as possible to contribute changes that
-get things working in your environment. There are a few guidelines that we
-need contributors to follow so that we can have a chance of keeping on
-top of things.
+Third-party patches are essential.  We simply can't access the huge number of platforms and myriad configurations for running
+CONTRAX.io. We want to keep it as easy as possible to contribute changes that get things working in your environment. There are a few guidelines that we need contributors to follow so that we can have a chance of keeping on top of things.
 
-## Puppet Core vs Modules
+### Core vs Modules
 
-New functionality is typically directed toward modules to provide a slimmer
-Puppet Core, reducing its surface area, and to allow greater freedom for
-module maintainers to ship releases at their own cadence, rather than
-being held to the cadence of Puppet releases. With Puppet 4's "all in one"
-packaging, a list of modules at specific versions will be packaged with the
-core so that popular types and providers will still be available as part of
-the "out of the box" experience.
+New functionality is typically directed toward modules to provide a slimmer Core, reducing its surface area, and to allow greater freedom for module maintainers to ship releases at their own cadence, rather than being held to the cadence of Puppet releases. With Puppet 4's "all in one" packaging, a list of modules at specific versions will be packaged with thevcore so that popular types and providers will still be available as part of the "out of the box" experience.
 
-Generally, new types and new OS-specific providers for existing types should
-be added in modules. Exceptions would be things like new cross-OS providers
-and updates to existing core types.
+Generally, new types and new OS-specific providers for existing types should be added in modules. Exceptions would be things like new cross-OS providers and updates to existing core types.
 
-If you are unsure of whether your contribution should be implemented as a
-module or part of Puppet Core, you may visit
-[#puppet-dev on Freenode IRC](https://freenode.net) or ask on the
-[puppet-dev mailing list](https://groups.google.com/forum/#!forum/puppet-dev)
+If you are unsure of whether your contribution should be implemented as a module or part of Core, you may visit
+[#CONTRAX-dev on Freenode IRC](https://freenode.net) or ask on the [CONTRAX-dev mailing list](https://)
 for advice.
 
-## Getting Started
+### Getting Started
 
 * Make sure you have a [Jira account](https://tickets.puppetlabs.com)
 * Make sure you have a [GitHub account](https://github.com/signup/free)
@@ -77,7 +58,7 @@ for advice.
   * Make sure you fill in the earliest version that you know has the issue.
 * Fork the repository on GitHub
 
-## Making Changes
+### Making Changes
 
 * Create a topic branch from where you want to base your work.
   * This is usually the master branch.
@@ -107,14 +88,11 @@ for advice.
 * Make sure you have added the necessary tests for your changes.
 * Run _all_ the tests to assure nothing else was accidentally broken.
 
-## Making Trivial Changes
+### Making Trivial Changes
 
-### Documentation
+### Contributing to Documentation
 
-For changes of a trivial nature to comments and documentation, it is not
-always necessary to create a new ticket in Jira. In this case, it is
-appropriate to start the first line of a commit with '(doc)' instead of
-a ticket number.
+For changes of a trivial nature to comments and documentation, it is not always necessary to create a new ticket in Jira. In this case, it is appropriate to start the first line of a commit with '(doc)' instead of a ticket number.
 
 ````
     (doc) Add documentation commit example to CONTRIBUTING
@@ -129,9 +107,9 @@ a ticket number.
     the new documentation or comments added.
 ````
 
-## Submitting Changes
+### Submitting Changes
 
-* Sign the [Contributor License Agreement](http://links.puppetlabs.com/cla).
+* Sign the [Contributor License Agreement](http://links.contrax.io/cla).
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the repository in the puppetlabs organization.
 * Update your Jira ticket to mark that you have submitted code and are ready for it to be reviewed (Status: Ready for Merge).
@@ -139,8 +117,8 @@ a ticket number.
 * The core team looks at Pull Requests on a regular basis in a weekly triage
   meeting that we hold in a public Google Hangout. The hangout is announced in
   the weekly status updates that are sent to the puppet-dev list. Notes are
-  posted to the [Puppet Community community-triage
-  repo](https://github.com/puppet-community/community-triage/tree/master/core/notes)
+  posted to the [Contrax Community community-triage
+  repo]()
   and include a link to a YouTube recording of the hangout.
 * After feedback has been given we expect responses within two weeks. After two
   weeks we may close the pull request if it isn't showing any activity.
