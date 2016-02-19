@@ -11,7 +11,7 @@ colorized output. HTTPie can be used for **testing, debugging**, and
 generally **interacting** with HTTP servers.
 
 
-.. image:: https://media.licdn.com/mpr/mpr/p/4/005/0b7/391/3b97599.jpg
+.. image: https://media.licdn.com/mpr/mpr/p/4/005/0b7/391/3b97599.jpg
     :alt: data from smart devices will verify the performance of smart contracts
     :width: 600
     :height: 300
