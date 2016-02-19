@@ -1,6 +1,6 @@
-********************************************************************************
-CONTRAX.io uses IoT for verification / validation of smart contract performance.
-********************************************************************************
+***********************************************************
+CONTRAX.io : IoT for smart contract performance verfication
+***********************************************************
 
 HTTPie (pronounced *aitch-tee-tee-pie*) is a **command line HTTP client**.  
 Its goal is to make CLI interaction with web services as **human-friendly** 
