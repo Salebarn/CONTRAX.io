@@ -1,6 +1,7 @@
 CONTRAX.io 
 ==========
 
+  - [Motivation](#motivation)
   - [Installation](#installation)
   - [Output example](#output-example)
   - [Usage](#usage)
@@ -26,6 +27,10 @@ To make it easier for users and contributors to see precisely what notable chang
 Because software tools are for people. If you don’t care, why are you contributing to open source? Surely, there must be a kernel (ha!) of care somewhere in that lovely little brain of yours.
 
 > :arrow_right: *[http://keepachangelog.com](http://keepachangelog.com)*
+
+## Motivation
+
+	[sudo] gem install github_changelog_generator
 
 ## Installation
 
