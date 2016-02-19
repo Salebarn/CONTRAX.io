@@ -22,6 +22,7 @@ CONTRAX.io
 
 
 # Description – HOPEFULLY IT IS OBVIOUS THAT THIS REPO IS VERY MUCH STILL UNDER CONSTRUCTION
+[We are trying, first of all, to buid a decent ReadMe ... but there's more after that ...](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/)
 
 
 
