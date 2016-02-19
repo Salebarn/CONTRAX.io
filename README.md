@@ -13,9 +13,9 @@ CONTRAX.io
     - Wiki
 
   - [Contributing](#contributing)
-  - Credits
-    - Contibutors
-    - Inspiration
+  - [Credits](#credits)
+    - Contibutors(#contributors)
+    - Inspiration(#inspiration)
     - [Alternatives](#alternatives)
     - [Projects using this library](#projects-using-this-library)
   - [License](#license)
