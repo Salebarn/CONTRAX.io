@@ -2,7 +2,7 @@ CONTRAX.io
 ==========
 
 
-  - [Description]
+  - [Description](#Description)
     - Inspiration
     - [Motivation](#motivation)
     - Features
@@ -21,7 +21,7 @@ CONTRAX.io
   - [License](#license)
 
 
-# Description – UNDER CONSTRUCTION
+# Description – HOPEFULLY IT IS OBVIOUS THAT THIS REPO IS VERY MUCH STILL UNDER CONSTRUCTION
 
 
 
