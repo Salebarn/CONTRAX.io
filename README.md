@@ -3,7 +3,7 @@ CONTRAX.io
 
 
   - [Description](#Description)
-    - Inspiration
+    - [Inspiration](#Inspiration)
     - [Motivation](#motivation)
     - Features
   - [Installation](#installation)
