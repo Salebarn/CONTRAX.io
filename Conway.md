@@ -4,7 +4,7 @@ Conway’s Law drives and constrains the productivity of firms, teams and employ
 
 *Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization’s communication structure.*   
 
-Eric S. Raymond pithily summarized this phenomenon in [The New Hacker’s Dictionary](http://www.proselex.net/documents/the%20new%20hacker's%20dictionary.pdf) by giving a practical example: “If you have four groups working on a compiler, you’ll get a 4-pass compiler.”  Raymond also went on to note Tom Cheatham's amendment of the compiler example of Conway's Law: "If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager."  
+Eric S. Raymond pithily summarized this phenomenon in [The New Hacker’s Dictionary](http://www.proselex.net/documents/the%20new%20hacker's%20dictionary.pdf) by giving a simple, practical example: “If you have four groups working on a compiler, you’ll get a 4-pass compiler.”  Raymond also went on to note Tom Cheatham's amendment of the compiler example of Conway's Law: "If a group of N persons implements a COBOL compiler, there will be N-1 passes. Someone in the group has to be the manager."  
 
 It would be fair enough to adjust the observation slightly to observe that an organization's communication structure is the principal driving factor in the design of the product structure of that organization.  But the products of an organization are not just the things that customers buy -- employee skills and behaviors are ALSO molded and produced by organizations.  
 
