@@ -1,6 +1,6 @@
 # Why
 
-Conway’s Law drives and constrains the productivity of firms, teams and employees.  Conway's Law is an observation taken from Melvin Conway’s paper on [How Do Committees Invent](http://www.melconway.com/research/committees.html) published in Datamation magazine in April 1968.  In the five decades since, overwhelming numbers of project leaders and entrepreneurs have confirmed the operational truth of the phenomenon of the observation that:
+Conway’s Law drives and constrains the productivity of firms, teams and employees.  Conway's Law is an observation taken from Melvin Conway’s paper on [How Do Committees Invent](http://www.melconway.com/research/committees.html) published in Datamation magazine in April 1968.  In the five decades since, overwhelming numbers of project leaders and entrepreneurs have pointed to transoformationals organizations such as Netflix and Amazon and have confirmed the essential operational truth of the phenomenon of the observation in their working experience that:
 
 *Any organization that designs a system (defined more broadly here than just information systems) will inevitably produce a design whose structure is a copy of the organization’s communication structure.*   
 
