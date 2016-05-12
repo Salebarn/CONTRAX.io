@@ -22,9 +22,10 @@ CONTRAX.io
 
 # HOPEFULLY IT IS OBVIOUS THAT THIS REPO IS VERY MUCH STILL UNDER CONSTRUCTION
 
-# Description – 
 The first order of business is a [decent ReadMe](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/)
 
+# Description
+The aim of CONTRAX.io is an accelerated negotiation and customer fulfillment process for smart lightweight agreements. The overall goal is in lowering the barriers to entry for negotiation and the elimination of frictions, unnecessary costs and uncertainties in transactions. It is believed that the best overall way to achieve this is to foster a processs of trust building through successive conpletion of smaller, progressively more complex and involved assignments.     
 
 # Motivation
 
