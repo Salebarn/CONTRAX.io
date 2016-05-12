@@ -25,6 +25,8 @@ CONTRAX.io
 The first order of business is a [decent ReadMe](https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/)
 
 # Description
+CONTRAX.io is fundamentally a messaging platform ... for a very particular type of message ... it starts with prospecting followed by qualification and negotiation followed by a contract followed by an initial payment followed by customer fulfillment followed by final payment followed by data artifacts and proof-of-work to used in the future path from prospecting to negotiation to delivery ... all about the data for contracts and more contracts.
+
 The aim of CONTRAX.io is an accelerated negotiation and customer fulfillment process for smart lightweight agreements. The overall goal is in lowering the barriers to entry for negotiation and the elimination of frictions, unnecessary costs and uncertainties in transactions. It is believed that the best overall way to achieve this is to foster a processs of trust building through successive conpletion of smaller, progressively more complex and involved assignments.     
 
 # Motivation
